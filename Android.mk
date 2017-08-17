@@ -1,7 +1,7 @@
 LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
-LOCAL_MODULE := CMFileManager
-LOCAL_SRC_FILES := CMFileManager.apk
+LOCAL_MODULE := AmazeFileManager
+LOCAL_SRC_FILES := AmazeFileManager.apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_CERTIFICATE := platform
 
